@@ -1,0 +1,4423 @@
+header{
+	height: 80px;
+	background: url('../img/14978374281380.jpg') no-repeat center top;
+}
+header .top{
+	width: 991px;
+	height: 80px;
+	margin: 0px auto;
+	background: #7c00ba;
+}
+header .left{
+	float: left;
+
+}
+header ul{
+	width: 691px;
+	
+	float: right;
+}
+
+header ul li{
+	width: 60px;
+	height: 40px;
+	
+	float: left;
+}
+nav{
+	height: 30px;
+	background: #f5f5f5;
+}
+nav .nav{
+	width: 1040px;
+	height: 30px;
+	
+	margin: 0px auto;
+	
+
+}
+nav .nav a{
+	text-decoration: none;
+	font-size: 12px;
+	color: #999999;
+	line-height: 30px;
+	position: relative;
+    left: 20px;
+}
+nav .navleft{
+	width:90px;
+	height: 28px;
+	margin-left: 25px;
+	float: left;
+	
+}
+
+nav .navleft .jiantou{
+	position: relative;
+    right: -30px;
+    top: 8px;
+
+}
+
+nav .navleft .xiala{
+	width: 280px;
+	height: 450px;
+	display:none;
+	border: 1px solid #aaaaaa;
+	border-top:none;
+	position: relative;
+    left: -1px;
+    top: -2px;
+    z-index: 1;
+}
+
+nav .navleft .xiala ul li{
+	height:25px;
+	font-size: 13px;
+    
+    color: #999999;
+}
+nav .navleft .xiala ul{
+	margin-left: 24px;
+    margin-top: 5px;
+}
+nav .navleft .xiala .biao{
+	margin: 0px auto;
+    width: 250px;
+    height: 50px;
+    border: 1px dotted #999999;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    line-height: 50px;
+}
+nav .navleft .xiala .biao p{
+	border-top: 1px solid #aaaaaa;
+    width: 190px;
+    position: relative;
+    margin-left: 63px;
+    top: 0px;
+    left: 12px;
+    
+}
+nav .navright{
+	width: 690px;
+	height: 40px;
+	
+	float: right;
+	
+}
+nav .navright ul{
+	width: 690px;
+	display: flex;
+}
+nav .navright ul li{
+	display: flex;
+	height: 40px;
+	flex:1;
+	
+	margin-right: 5px;
+}
+
+nav .navright ul .lifirst span{
+	display: block;
+    width: 62px;
+    height: 30px;
+   
+    margin-top: 5px;
+}
+nav .navright ul .lifirst span a{
+	position: relative;
+    left: 0px;
+    top: -5px;
+}
+nav .navright ul .lifirst span img{
+	position: relative;
+    
+    left: 0px;
+    top: 2px;
+}
+nav .navright ul .lifirst .oneimg{
+	position: relative;
+    top: 12px;
+    right: -6px;
+}
+nav .navright ul .litwo span{
+	display: block;
+    width: 74px;
+    height: 30px;
+   
+    margin-top: 5px;
+}
+nav .navright ul .litwo span a{
+	position: relative;
+    left: 0px;
+    top: -5px;
+}
+nav .navright ul .litwo span img{
+	position: relative;
+    
+    left:-6px;
+    top: 2px;
+}
+nav .navright ul .litwo .oneimg{
+	position: relative;
+    top: 12px;
+    right: -4px;
+}
+nav .navright ul .lisun span{
+	display: block;
+    width: 86px;
+    height: 30px;
+   
+    margin-top: 5px;
+}
+nav .navright ul .lisun span a{
+	position: relative;
+    left: 0px;
+    top: -5px;
+}
+nav .navright ul .lisun span img{
+	position: relative;
+    left:-6px;
+    top:2px;
+}
+nav .navright ul .lisun .oneimg{
+	position: relative;
+    top: 12px;
+    right: -4px;
+}
+nav .navright ul .lizc img{
+	 position: relative;
+    left: 30px;
+    top: 12px;
+}
+nav .navright ul .lizc a{
+	 position: relative;
+    left: 15px;
+}
+
+nav .navright ul .lisuns span{
+	display: block;
+    width: 86px;
+    height: 30px;
+   
+    margin-top: 5px;
+}
+nav .navright ul .lisuns span a{
+	position: relative;
+    left: 0px;
+    top: -5px;
+}
+nav .navright ul .lisuns span img{
+	position: relative;
+    left:-6px;
+    top:2px;
+}
+nav .navright ul .lisuns .oneimg{
+	position: relative;
+    top: 12px;
+    right: -4px;
+}
+nav .navright ul .lidan img{
+	 position: relative;
+    left: 12px;
+    top: 12px;
+}
+nav .navright ul .lidan a{
+	 position: relative;
+    left: 0px;
+}
+nav .navright ul .lifive span{
+	display: block;
+    width: 62px;
+    height: 30px;
+   
+    margin-top: 5px;
+}
+nav .navright ul .lifive span a{
+	position: relative;
+    left: 0px;
+    top: -5px;
+}
+nav .navright ul .lifive span img{
+	width: 15px;
+    position: relative;
+    top: -2px;
+    left: 6px;
+}
+nav .navright ul .lifive .oneimg{
+	position: relative;
+    top: 12px;
+    right: -6px;
+}
+nav .navright ul .lisix span a{
+	 position: relative;
+    left: 10px;
+}
+nav .navleft ul .lisix span{
+	width: 60px;
+    height: 40;
+   
+    display: block;
+    height: 40px;
+    
+}
+nav .navright ul .lisix span img{
+	 position: relative;
+    left: 0px;
+    top: 8px;
+}
+nav .navright ul .lifirst  span .denglu{
+	width: 230px;
+	height: 150px;
+	border: 1px solid #aaaaaa;
+	position: relative;
+    top: -6px;
+    left: -1px;
+    border-top: none;
+    padding-top: 20px;
+    display:none;
+    z-index: 1;
+}
+nav .navright ul .lifirst  span .denglu .toubu{
+	width: 200px;
+    margin: 0px auto;
+	height: 60px;
+	
+}
+nav .navright ul .lifirst  span .denglu .toubu span,.navbub .bubcon ul .lilast .gouwu span{
+	
+	background:url('../img/header.png') no-repeat ;
+}
+nav .navright ul .lifirst  span .denglu .toubu span{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+	background-position:  0px -185px ;
+}
+
+nav .navright ul .lifirst  span .denglu .toubu .top-p{
+	width: 148px;
+	height:35px;
+	border: 1px dotted #999999;
+	float: left;
+	border-top:none;
+	border-left: none;
+	border-right: none;
+}
+nav .navright ul .lifirst  span .denglu .toubu .top-p a{
+	line-height: 50px;
+}
+nav .navright ul .lifirst span .denglu ol{
+	width: 200px;
+	height: 100px;
+	
+	margin: 0px auto;
+
+}
+nav .navright ul .lifirst span .denglu ol li{
+	width: 80px;
+    height: 20px;
+    
+    margin-right: 20px;
+    margin-bottom: 5px;
+    float: left;
+}
+nav .navright ul .lifirst span .denglu .border-p{
+	width: 155px;
+    height: 10px;
+   border-top: 1px solid #aaaaaa;
+    position: relative;
+    left: 75px;
+    top: -20px;
+}
+nav .navright ul .litwo span .temai{
+	width: 100px;
+	height: 110px;
+	border: 1px solid #aaaaaa;
+	border-top: none;
+	position: relative;
+    left: -1px;
+    top: -5px;
+    display:none;
+}
+nav .navright ul .litwo span .temai .temai-p{
+	width: 16px;
+    height: 2px;
+    border-top: 1px solid #aaaaaa;
+    position: relative;
+    left: 84px;
+}
+nav .navright ul .litwo span .temai ol{
+	width: 75px;
+    height: 100px;
+   
+    margin-left: 10px;
+}
+nav .navright ul .lisun span .temai{
+	width: 96px;
+	height: 100px;
+	border: 1px solid #aaaaaa;
+	border-top: none;
+	position: relative;
+    left: -1px;
+    top: -5px;
+    display:none;
+}
+nav .navright ul .lisun span .temai ol li{
+	margin-bottom: -10px;
+}
+nav .navright ul .lisun span .temai ol{
+	width: 75px;
+    height: 100px;
+   
+    margin-left: 10px;
+}
+nav .navright ul .lisuns span .temai{
+	width: 96px;
+	height: 125px;
+	border: 1px solid #aaaaaa;
+	border-top: none;
+	position: relative;
+    left: -1px;
+    top: -5px;
+    display:none;
+}
+
+nav .navright ul .lisuns span .temai ol{
+	width: 78px;
+    height: 100px;
+   
+    margin-left: 10px;
+}
+nav .navright ul .lisuns span .temai ol li{
+	margin-bottom: -10px;
+}
+nav .navright ul .lifive span .shoujiban{
+	width: 183px;
+    height: 200px;
+    border: 1px solid #aaaaaa;
+    border-top: none;
+    position: relative;
+    left: -110px;
+    top: -6px;
+    display: none;
+    z-index: 1;
+}
+nav .navright ul .lifive span .shoujiban img{
+	width: 160px;
+	margin-left:5px;
+	margin-top:10px;
+}
+nav .navright ul .lifive span .shoujiban h6{
+	font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:-8px;
+}
+nav .navright ul .lifive span .shoujiban p{
+	width: 109px;
+	height: 2px;
+	border-top: 1px solid #aaaaaa;
+}
+nav .navright .more{
+	width: 293px;
+    height: 140px;
+    border: 1px solid #aaaaaa;
+    position: relative;
+    right: -390px;
+    border-top:none;
+    padding-top:10px;
+    display:none;
+    z-index:1;
+}
+nav .navright .more .con{
+	width: 230px;
+	height: 120px;
+	margin: 0px auto;
+}
+nav .navright .more .con .contop{
+	width: 230px;
+	height: 60px;
+	border-bottom: 1px dotted #aaaaaa;
+	
+}
+nav .navright .more .con .contop p{
+	margin-left: -18px;
+}
+nav .navright .more .con .contop h5{
+	font-size: 14px;
+	font-weight: bold;
+}
+nav .navright .more .con .confot{
+	width: 230px;
+	height: 60px;
+	
+	margin-top: 10px;
+}
+nav .navright .more .con .confot p{
+	margin-left: -18px;
+}
+nav .navright .more .con .confot h5{
+	font-size: 14px;
+	font-weight: bold;
+}
+nav .navright .more-border{
+	width: 220px;
+    position: relative;
+    top: -11px;
+    left: -1px;
+    height: 2px;
+    border-top: 1px solid #aaaaaa;
+}
+.navbub{
+	height: 100px;
+	
+}
+.navbub .bubcon{
+	width: 1000px;
+	height: 100px;
+	margin: 0px auto;
+	
+}
+.navbub .bubcon h1{
+	float: left;
+}
+.navbub .bubcon ul{
+	width: 505px;
+    height: 93px;
+    margin-right:-5px;
+    float: right;
+}
+.navbub .bubcon ul li{
+	width: 113px;
+    height: 70px;
+   
+    float: left;
+    margin-right: 10px;
+}
+.navbub .bubcon h1 img{
+	margin-left:-30px;
+}
+.navbub .bubcon ul li img{
+	width: 120px;
+
+}
+.navbub .bubcon ul .lilast p{
+	position: relative;
+    top: 42px;
+    left: -5px;
+    color: #aaaaaa;
+}
+.navbub .bubcon ul .lilast .gouwu{
+	width: 96px;
+    height: 60px;
+    
+    position: relative;
+    left: 10px;
+}
+.navbub .bubcon ul .lilast .gouwu span{
+	display: block;
+    width: 30px;
+    height: 42px;
+    background-position: 1px -40px;
+}
+.navbub .bubcon ul .lilast .gouwu .gouwu-p{
+	width: 25px;
+    height: 15px;
+    background: #f10180;
+    border-radius: 10px;
+    position: absolute;
+    top: 14px;
+    left: 10px;
+    text-align: center;
+    line-height: 15px;
+}
+.navbub .bubcon ul .lilast .gouwu h5 a{
+	position: absolute;
+	text-decoration: none;
+    right: 0px;
+    font-size: 12px;
+    top: 25px;
+    color: #636363;
+}
+.navbub .bubcon ul .lilast .gouwu .danchu{
+	width: 310px;
+    height: 70px;
+    border: 1px solid #aaaaaa;
+    position: relative;
+    left: -208px;
+    top: 10px;
+    border-top: none;
+    text-align: center;
+    font-size: 12px;
+    line-height: 70px;
+    display:none;
+    z-index: 1;
+}
+.navbub .bubcon ul .lilast .gouwu  .danchu-p{
+	width: 198px;
+	border-top: 1px solid #aaaaaa;
+	position: relative;
+    top: 10px;
+    left: -208px;
+    display:none;
+}
+.navbub .bubcon ul .lilast .gouwu .lima{
+	text-decoration:none;
+	color: #df147f;
+}
+.navbar{
+	
+	height: 42px;
+	background: #f10180;
+}
+
+.navbar .barcon{
+	width: 1000px;
+	height: 45px;
+	margin: 0px auto;
+	position: relative;
+	
+}
+.navbar .barcon ul{
+	width: 670px;
+	height: 45px;
+	float: left;
+	display:flex;
+	position:absolute;
+	
+	
+}
+.navbar .barcon ul li{
+	display: flex;
+	height: 42px;
+	
+}
+.navbar .barcon ul .one{
+	flex: 1;
+	background: #ba1065;
+
+}
+.navbar .barcon ul .one a{
+	position: relative;
+	left:8px;
+}
+.navbar .barcon ul .two{
+	flex: 2;
+}
+.navbar .barcon ul .two a{
+	position: relative;
+	left: 16px;
+}
+.navbar .barcon ul .san{
+	flex:1;
+}
+.navbar .barcon ul .san a{
+	position: relative;
+	left: 6px;
+}
+.navbar .barcon ul .for{
+	flex: 1.5;
+}
+.navbar .barcon ul .for a{
+	position: relative;
+	left: 6px;
+}
+.navbar .barcon ul li a{
+	text-decoration:none;
+	color:white;
+	font-size: 18px;
+	font-weight:bold;
+	
+	line-height: 45px;
+}
+.navbar .barcon ul li:hover{
+	background: rgba(7,1,11,0.1);
+}
+.navbar .barcon ul .for img{
+	width: 20px;
+    height: 20px;
+    position: relative;
+    left: 6px;
+    top: 12px;
+
+}
+.navbar .barcon .baright{
+	width: 160px;
+	height: 45px;
+	
+	float: right;
+	position: absolute;
+	right: 0px;
+	display:flex;
+}
+.navbar .barcon .baright div{
+	display: flex;
+	height: 42px;
+	
+	flex:1;
+}
+.navbar .barcon .baright div:hover{
+	background: rgba(7,1,11,0.1);
+}
+.navbar .barcon .baright div a{
+	text-decoration:none;
+	color:white;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 45px;
+	position: relative;
+    left: 12px;
+}
+.navbar .barcon .baright div img{
+	height: 35px;
+	position: relative;
+    left: 10px;
+    top: 4px;
+}
+.navbar .barimgs{
+	width: 584px;
+    height: 225px;
+    background: white;
+    position: absolute;
+    left: 310px;
+    z-index: 1;
+    padding-top: 20px;
+    display:none;
+}
+.navbar .barimgs ul{
+	width: 550px;
+	height: 200px;
+	
+	margin: 0px 28px;
+}
+.navbar .barimgs ul li{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 170px;
+	height: 96px;
+	position: relative;
+}
+.navbar .barimgs ul li img{
+	border-radius: 10px;
+}
+.navbar .barimgs ul li p{
+	position: absolute;
+    width: 170px;
+    height: 40px;
+   
+    bottom: 0px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.navbar .barimgs ul li p a{
+   color: white;
+   text-decoration:none;
+}
+
+.rightaside{
+	height: 720px;
+    width: 40px;
+    background: black;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    z-index: 1;
+}
+.rightaside ul{
+	
+	height: 540px;
+	margin-top: 80px;
+}
+.rightaside ul li{
+	position: relative;
+}
+.rightaside ul .aside1{
+	width: 40px;
+	height: 60px;
+	
+	margin-bottom: 2px;
+}
+.rightaside ul .aside1 .rentou{
+	    width: 30px;
+    position: absolute;
+    left: 4px;
+}
+.rightaside ul .aside1 p{
+	position: absolute;
+    font-size: 14px;
+    top: 35px;
+    left: 8px;
+    color: white;
+  
+}
+.rightaside ul .aside1 .zhanghao{
+	width: 294px;
+    padding-top: 10px;
+    height: 284px;
+    background: white;
+    position: absolute;
+    left: -295px;
+    display:none;
+    border: 1px solid #aaaaaa;
+    border-right:none;
+}
+.rightaside ul .aside1 .zhanghao .top{
+	width: 100px;
+	height:110px;
+	
+	margin: 0px auto;
+}
+.rightaside ul .aside1 .zhanghao .top h6{
+	font-size: 12px;
+    margin-top: 20px;
+    text-align: center;
+}
+.rightaside ul .aside1 .zhanghao .top h6 a{
+	text-decoration:none;
+	color:red;
+}
+.rightaside ul .aside1 .zhanghao .top span{
+	display:block;
+	width: 60px;
+	height: 60px;
+	border: 1px solid #f0f0f0;
+	margin: 0px auto;
+	padding: 4px;
+}
+.rightaside ul .aside1 .zhanghao .top span img{
+	 position: relative;
+    left: -3px;
+    top: -3px;
+}
+.rightaside ul li:hover{
+	background: #f10582;
+	cursor: pointer;
+}
+.rightaside ul .aside1 .zhanghao .con{
+	height: 100px;
+	padding-top:10px;
+	margin-top:20px;
+	background: #f8f8f8;
+	border:1px solid #f0f0f0;
+}
+.rightaside ul .aside1 .zhanghao .con .connei{
+	width: 242px;
+	height: 90px;
+	
+	margin: 0px auto;
+}
+.rightaside ul .aside1 .zhanghao .con .connei div{
+	width: 120px;
+	height: 90px;
+	
+	float:left;
+	position: relative;
+}
+.rightaside ul .aside1 .zhanghao .con .connei .left{
+	border-right: 1px solid #f5f5f5;
+}
+.rightaside ul .aside1 .zhanghao .con .connei .left h5{
+	font-size: 12px;
+    position: absolute;
+    bottom: 18px;
+    left: 38px;
+}
+.rightaside ul .aside1 .zhanghao .con .connei .left img{
+	
+	width: 30px;
+    position: absolute;
+    top: 15px;
+    left: 46px;
+}
+.rightaside ul .aside1 .zhanghao .con .connei .right h5{
+	font-size: 12px;
+    position: absolute;
+    bottom: 18px;
+    left: 38px;
+}
+.rightaside ul .aside1 .zhanghao .con .connei .right img{
+	
+	width: 30px;
+    position: absolute;
+    top: 15px;
+    left: 46px;
+}
+.rightaside ul .aside1 .zhanghao p{
+	width: 70px;
+    height: 20px;
+    position: relative;
+    color: black;
+    left: 200px;
+    font-size: 12px;
+    top: 16px;
+
+
+}
+.rightaside ul .aside1 .zhanghao p a{
+	color:#6bb0c0;
+	text-decoration:none;
+}
+.rightaside ul .aside2{
+	width: 40px;
+	height: 120px;
+	background:#f10582;
+	margin-bottom: 4px;
+}
+.rightaside ul .aside2 img{
+	width: 25px;
+    position: absolute;
+    left: 6px;
+    top: 6px;
+
+}
+.rightaside ul .aside2 p{
+	font-size: 14px;
+	color: white;
+    position: absolute;
+    top: 35px;
+    width: 27px;
+    left: 12px;
+    
+}
+.rightaside ul .aside2 .span-g{
+	display: block;
+	width: 20px;
+	height: 20px;
+	background: white;
+	border-radius: 50%;
+	position: absolute;
+    bottom: 10px;
+    left: 10px;
+    text-align: center;
+    color: red;
+	
+}
+.rightaside ul .aside3{
+	width: 40px;
+	height: 40px;
+	
+	margin-bottom: 4px;
+}
+.rightaside ul .aside3 img{
+	width: 25px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+.rightaside ul .aside3 p{
+	width: 110px;
+    height: 40px;
+    background: white;
+    position: absolute;
+    left: -110px;
+    text-align: center;
+    line-height: 40px;
+    display:none;
+    border: 1px solid #aaaaaa;
+}
+.rightaside ul .aside3 p a{
+	text-decoration:none;
+	color: black;
+	font-size:14px;
+}
+.rightaside ul .asidefuyi{
+	width: 40px;
+	height: 40px;
+	
+	margin-bottom: 4px;
+}
+.rightaside ul .asidefuyi img{
+	width: 25px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+.rightaside ul .asidefuyi p{
+	width: 110px;
+    height: 40px;
+    background: white;
+    position: absolute;
+    left: -110px;
+    text-align: center;
+    line-height: 40px;
+    display:none;
+    border: 1px solid #aaaaaa;
+}
+.rightaside ul .asidefuyi p a{
+	text-decoration:none;
+	color: black;
+	font-size:14px;
+}
+.rightaside ul .asidefuer{
+	width: 40px;
+	height: 40px;
+	
+	margin-bottom: 4px;
+}
+.rightaside ul .asidefuer img{
+	width: 25px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+.rightaside ul .asidefuer p{
+	width: 110px;
+    height: 40px;
+    background: white;
+    position: absolute;
+    left: -110px;
+    text-align: center;
+    line-height: 40px;
+    display:none;
+    border: 1px solid #aaaaaa;
+}
+.rightaside ul .asidefuer p a{
+	text-decoration:none;
+	color: black;
+	font-size:14px;
+}
+.rightaside ul .asidefusan{
+	width: 40px;
+	height: 40px;
+	
+	margin-bottom: 4px;
+}
+.rightaside ul .asidefusan img{
+	width: 25px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+.rightaside ul .asidefusan p{
+	width: 110px;
+    height: 40px;
+    background: white;
+    position: absolute;
+    left: -110px;
+    text-align: center;
+    line-height: 40px;
+    display:none;
+    border: 1px solid #aaaaaa;
+
+}
+.rightaside ul .asidefusan p a{
+	text-decoration:none;
+	color: black;
+	font-size:14px;
+}
+.rightaside ul .aside4{
+	width: 40px;
+	height: 40px;
+	
+	margin-top: 110px;
+	margin-bottom: 4px;
+}
+
+.rightaside ul .aside4 img{
+	width: 25px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+.rightaside ul .aside4 p{
+	width: 110px;
+    height: 40px;
+    background: white;
+    position: absolute;
+    left: -110px;
+    text-align: center;
+    line-height: 40px;
+    display:none;
+    border: 1px solid #aaaaaa;
+}
+.rightaside ul .aside4 p a{
+	text-decoration:none;
+	color: black;
+	font-size:14px;
+}
+.rightaside ul .aside5{
+	width: 40px;
+	height: 40px;
+}
+
+.rightaside ul .aside5 img{
+	width: 25px;
+    position: absolute;
+    left: 8px;
+    top: 2px;
+}
+.rightaside ul .aside5 p{
+	width: 110px;
+    height: 40px;
+    background: white;
+    position: absolute;
+    left: -110px;
+    text-align: center;
+    line-height: 40px;
+    display:none;
+    border: 1px solid #aaaaaa;
+}
+.rightaside ul .aside5 p a{
+	text-decoration:none;
+	color: black;
+	font-size:14px;
+}
+.rightaside ul .aside2 .gouwudai{
+	width: 260px;
+	height: 165px;
+	background: white;
+	position:absolute;
+	left:-260px;
+	border:1px solid #aaaaaa;
+	padding-top: 35px;
+	display:none;
+}
+.rightaside ul .aside2 .gouwudai .top{
+	width: 100px;
+	height:110px;
+	
+	margin: 0px auto;
+}
+.rightaside ul .aside2 .gouwudai .top h6{
+	font-size: 12px;
+    margin-top: 20px;
+    text-align: center;
+}
+.rightaside ul .aside2 .gouwudai .top h6 a{
+	text-decoration:none;
+	color:red;
+}
+.rightaside ul .aside2 .gouwudai .top .span-img{
+	display:block;
+	width: 60px;
+	height: 60px;
+	border: 1px solid #f0f0f0;
+	margin: 0px auto;
+	padding: 4px;
+}
+.rightaside ul .aside2 .gouwudai .top .span-img img{
+	 position: relative;
+	 width:66px;
+    left: -3px;
+    top: -3px;
+}
+.contain{
+	height: 300px;
+	padding-top:10px;
+	padding-bottom: 100px;
+	background: url('../img/14948175903179.jpg') no-repeat center top;
+}
+.contain .border{
+	width: 967px;
+    height: 370px;
+  	
+    margin: 0px auto;
+	
+	box-shadow: 1px 2px 3px 3px #e9e9e9;
+    position: relative;
+    top: 35px;
+   
+}
+.contain .conzhong{
+	width: 970px;
+	height: 331px;
+	position:relative;
+	overflow: hidden;
+}
+.contain .conzhong span{
+	width: 30px;
+	height: 65px;
+	display:block;
+	background: rgba(0,0,0,0.3);
+	position:absolute;
+	display:none;
+	cursor:pointer;
+}
+.contain .conzhong .left{
+	font-size: 30px;
+    left: 9px;
+    top: 50%;
+    margin-top: -30px;
+    text-align: center;
+    line-height: 65px;
+    color:white;
+}
+.contain .conzhong .right{
+	right: 11px;
+    top: 50%;
+    text-align: center;
+    line-height: 65px;
+    margin-top: -30px;
+    font-size: 30px;
+    color:white;
+}
+.contain .conzhong ul{
+	
+    width: 2850px;
+    height: 331px;
+    position:relative;
+    margin: 0px auto;
+    margin-top: 10px;
+
+}
+.contain .conzhong ul li{
+	 width: 970px;
+    height: 331px;
+	float: left;
+	margin-left:9px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.contain .border .navul{
+	width: 950px;
+	height: 40px;
+	
+	margin: 0px auto;
+}
+.contain .border .navul li{
+	width: 195px;
+    height: 40px;
+    
+    float: left;
+    position: relative;
+    left: 20%;
+}
+.contain .border .navul li a{
+	position:relative;
+	line-height: 40px;
+	color: black;
+	text-decoration:none;
+	font-size:12px;
+}
+.contain .border .navul li span{
+	position: relative;
+    
+    color: #aaaaaa;
+    
+}
+.contain .border .navul .ulfirst a{
+	margin-left:44px;
+
+
+}
+.contain .border .navul .ulfirst span{
+	left: 18px;
+	top: 3px;
+}
+.contain .border .navul .ultwo a{
+	left:48px;
+
+}
+.contain .border .navul .ultwo span{
+	left: 100px;
+	top: 3px;
+}
+.contain .border .navul .ulsan a{
+	margin-left:24px;
+
+
+}
+.contain .border .navul .xiahuaxian{
+	border-bottom:1px solid red;
+}
+h6{
+	text-align: center;
+    line-height: 40px;
+    width: 195px;
+    height: 40px;
+    cursor:pointer;
+    margin: 0px auto;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.showsharp{
+	width: 1000px;
+	height: 484px;
+	
+	margin: 0px auto;
+}
+.showsharp .title{
+	width:1000px;
+}
+.showsharp .title img{
+	width: 1000px;
+}
+.showsharp .kuah{
+	height: 174px;
+	display:flex;
+	margin-top:-3px;
+}
+.showsharp .kuah div{
+	width: 328px;
+	height: 174px;
+	display:flex;
+	flex:1;
+	
+}
+.showsharp .kuah div img{
+	width: 328px;
+}
+.sreiao{
+	width: 1000px;
+	height: 154px;
+	background: url('../img/bg_v3.jpg') no-repeat center top;
+	background-size: 100%;
+	margin:0px auto;
+	position:relative;
+}
+.sreiao ul{
+	width: 450px;
+	height: 126px;
+	
+	position:absolute;
+	right:40px;
+	top: 15px;
+	display:flex;
+}
+.sreiao ul li{
+	width:145px;
+	height: 126px;
+	display:flex;
+	flex:1;
+	margin-right:15px;
+	position:relative;
+	background:white;
+}
+.sreiao ul li img{
+	width: 145px;
+}
+.sreiao ul li span{
+	position: absolute;
+	display:block;
+	width: 40px;
+	height: 40px;
+	background: url('../img/icon.png') no-repeat;
+	right:-10px;
+	top:-10px;
+	border-radius:50%;
+}
+.sreiao ul li .top1{
+	background-position:-3px -3px;
+}
+.sreiao ul li .top2{
+	background-position:-3px -52px;
+}
+.sreiao ul li .top3{
+	background-position:-3px -100px;
+}
+.shoptitle{
+	width: 1000px;
+	margin:0px auto;
+	margin-top:30px;
+}
+.shoptitle img{
+	width: 1000px;
+}
+.shopbox{
+	width: 1000px;
+	
+	margin: 0px auto;
+	
+}
+.shopbox .shopdiv1{
+	height: 300px;
+	display:flex;
+	margin-bottom:20px;
+}
+.shopbox .shopdiv1 .divbox{
+	height: 300px;
+	width:504px;
+	display:flex;
+	background:pink;
+	margin-right: 23px;
+	position:relative;
+}
+.shopbox .shopdiv1  .divbox img{
+	height:300px;
+}
+.shopbox .shopdiv1 .divbox .primary{
+	width:320px;
+	height:100px;
+	background:rgba(251,250,253,0.9);
+	position:absolute;
+	left:50%;
+	margin-left: -160px;
+	bottom: 20px;
+	border-radius: 5px;
+}
+.shopbox .shopdiv1 .divbox .primary .primg{
+	height: 50px;
+    position: relative;
+    left: 110px;
+    top: 5px;
+}
+.shopbox .shopdiv1 .divbox .primary .hostp{
+	left:15px;
+    top: 8px;
+   	font-size:14px;
+   	 font-weight: bold;
+}
+.shopbox .shopdiv1 .divbox .primary .hostb{
+	left:14px;
+    top: 10px;
+   font-size: 12px;
+}
+.shopbox .shopdiv1 .divbox .primary .host-p{
+	width: 150px;
+    height: 50px;
+   
+    position: relative;
+    top: -4px;
+    left: 82px;
+}
+.shopbox .shopdiv1 .divbox .primary .host-p span{
+	position: relative; 
+	display:block;
+	
+   
+}
+.shopbox .shopdiv1 .divbox .pricemai{
+	width: 450px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    border-radius: 5px;
+    margin-top: -130px;
+	display:none;
+}
+.shopbox .shopdiv1 .divbox .pricemai .topul{
+	height: 188px;
+	border-bottom: 1px dotted #aaaaaa;
+}
+.shopbox .shopdiv1 .divbox .pricemai .topul ul{
+	width: 423px;
+    height: 174px;
+    margin: 15px 24px;
+}
+.shopbox .shopdiv1 .divbox .pricemai .topul ul li{
+	width: 121px;
+	height: 184px;
+	
+	margin-right: 20px;
+	float: left;
+}
+.shopbox .shopdiv1 .divbox .pricemai .topul ul li img{
+	height: 153px;
+}
+.shopbox .shopdiv1 .divbox .pricemai .topul ul li p{
+	width: 48px;
+    height: 16px;
+   
+    margin: 5px auto;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom{
+	width: 410px;
+    height: 56px;
+   
+    margin: 0px auto;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft{
+	width: 228px;
+	height: 50px;
+    margin-top: 3px;
+	
+	float: left;
+	display:flex;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft p{
+	height: 50px;
+	display:flex;
+	
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft .p-img{
+	flex:1.5;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft .p-text{
+	flex:1;
+
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft .p-text span{
+	display: block;
+    width: 80px;
+    height: 20px;
+    
+    border: 1px solid red;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft .p-text span img{
+	height: 16px;
+    position: relative;
+    left: 6px;
+    top: 3px;
+}
+
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomright{
+	width: 125px;
+	height: 50px;
+    margin-top:3px;
+	
+	float: right;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft .p-img img{
+	height: 50px;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomleft .p-text span a{
+	font-size: 12px;
+    text-decoration: none;
+    position: relative;
+    top: -1px;
+    left: 2px;
+    color: #aaaaaa;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomright button{
+	width: 115px;
+    height: 25px;
+    margin-top: 12px;
+    border: 1px solid black;
+    background: white;
+    font-size: 14px;
+}
+.shopbox .shopdiv1 .divbox .pricemai .botom .botomright button a{
+	text-decoration: none;
+	color:black;
+}
+
+
+.shopbox .shopdiv1 .divbox1{
+	height: 300px;
+	width:504px;
+	display:flex;
+	background:pink;
+	margin-right: 23px;
+	position:relative;
+}
+.shopbox .shopdiv1  .divbox1 img{
+	height:300px;
+}
+.shopbox .shopdiv1 .divbox1 .primary{
+	width:320px;
+	height:100px;
+	background:rgba(251,250,253,0.9);
+	position:absolute;
+	left:50%;
+	margin-left: -160px;
+	bottom: 20px;
+	border-radius: 5px;
+}
+.shopbox .shopdiv1 .divbox1 .primary .primg{
+	height: 50px;
+    position: relative;
+    left: 110px;
+    top: 5px;
+}
+.shopbox .shopdiv1 .divbox1 .primary .hostp{
+	left:15px;
+    top: 8px;
+   	font-size:14px;
+   	 font-weight: bold;
+}
+.shopbox .shopdiv1 .divbox1 .primary .hostb{
+	left:14px;
+    top: 10px;
+   font-size: 12px;
+}
+.shopbox .shopdiv1 .divbox1 .primary .host-p{
+	width: 150px;
+    height: 50px;
+   
+    position: relative;
+    top: -4px;
+    left:90px;
+}
+.shopbox .shopdiv1 .divbox1 .primary .host-p span{
+	position: relative; 
+	display:block;
+	
+   
+}
+.shopbox .shopdiv1 .divbox1 .pricemai{
+	width: 450px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    border-radius: 5px;
+    margin-top: -130px;
+	display:none;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .topul{
+	height: 188px;
+	border-bottom: 1px dotted #aaaaaa;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .topul ul{
+	width: 423px;
+    height: 174px;
+    margin: 15px 24px;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .topul ul li{
+	width: 121px;
+	height: 184px;
+	
+	margin-right: 20px;
+	float: left;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .topul ul li img{
+	height: 153px;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .topul ul li p{
+	width: 48px;
+    height: 16px;
+   
+    margin: 5px auto;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom{
+	width: 410px;
+    height: 56px;
+   
+    margin: 0px auto;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft{
+	width: 228px;
+	height: 50px;
+    margin-top: 3px;
+	
+	float: left;
+	display:flex;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft p{
+	height: 50px;
+	display:flex;
+	
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft .p-img{
+	flex:1.5;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft .p-text{
+	flex:1;
+
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft .p-text span{
+	display: block;
+    width: 80px;
+    height: 20px;
+    
+    border: 1px solid red;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft .p-text span img{
+	height: 16px;
+    position: relative;
+    left: 6px;
+    top: 3px;
+}
+
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomright{
+	width: 125px;
+	height: 50px;
+    margin-top:3px;
+	
+	float: right;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft .p-img img{
+	height: 50px;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomleft .p-text span a{
+	font-size: 12px;
+    text-decoration: none;
+    position: relative;
+    top: -1px;
+    left: 2px;
+    color: #aaaaaa;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomright button{
+	width: 115px;
+    height: 25px;
+    margin-top: 12px;
+    border: 1px solid black;
+    background: white;
+    font-size: 14px;
+}
+.shopbox .shopdiv1 .divbox1 .pricemai .botom .botomright button a{
+	text-decoration: none;
+	color:black;
+}
+
+
+.shopbox .shopdiv2{
+	height: 300px;
+	display:flex;
+	margin-bottom:20px;
+}
+.shopbox .shopdiv2 .divbox{
+	height: 300px;
+	width:504px;
+	display:flex;
+	background:pink;
+	margin-right: 23px;
+	position:relative;
+}
+.shopbox .shopdiv2  .divbox img{
+	height:300px;
+}
+.shopbox .shopdiv2 .divbox .primary{
+	width:320px;
+	height:100px;
+	background:rgba(251,250,253,0.9);
+	position:absolute;
+	left:50%;
+	margin-left: -160px;
+	bottom: 20px;
+	border-radius: 5px;
+}
+.shopbox .shopdiv2 .divbox .primary .primg{
+	height: 50px;
+    position: relative;
+    left: 110px;
+    top: 5px;
+}
+.shopbox .shopdiv2 .divbox .primary .hostp{
+	left:15px;
+    top: 8px;
+   	font-size:14px;
+   	 font-weight: bold;
+}
+.shopbox .shopdiv2 .divbox .primary .hostb{
+	left:26px;
+    top: 10px;
+   font-size: 12px;
+}
+.shopbox .shopdiv2 .divbox .primary .host-p{
+	width: 150px;
+    height: 50px;
+   
+    position: relative;
+    top: -4px;
+    left: 82px;
+}
+.shopbox .shopdiv2 .divbox .primary .host-p span{
+	position: relative; 
+	display:block;
+	
+   
+}
+.shopbox .shopdiv2 .divbox .pricemai{
+	width: 450px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    border-radius: 5px;
+    margin-top: -130px;
+	display:none;
+}
+.shopbox .shopdiv2 .divbox .pricemai .topul{
+	height: 188px;
+	border-bottom: 1px dotted #aaaaaa;
+}
+.shopbox .shopdiv2 .divbox .pricemai .topul ul{
+	width: 423px;
+    height: 174px;
+    margin: 15px 24px;
+}
+.shopbox .shopdiv2 .divbox .pricemai .topul ul li{
+	width: 121px;
+	height: 184px;
+	
+	margin-right: 20px;
+	float: left;
+}
+.shopbox .shopdiv2 .divbox .pricemai .topul ul li img{
+	height: 153px;
+}
+.shopbox .shopdiv2 .divbox .pricemai .topul ul li p{
+	width: 48px;
+    height: 16px;
+   
+    margin: 5px auto;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom{
+	width: 410px;
+    height: 56px;
+   
+    margin: 0px auto;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft{
+	width: 228px;
+	height: 50px;
+    margin-top: 3px;
+	
+	float: left;
+	display:flex;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft p{
+	height: 50px;
+	display:flex;
+	
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft .p-img{
+	flex:1.5;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft .p-text{
+	flex:1;
+
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft .p-text span{
+	display: block;
+    width: 80px;
+    height: 20px;
+    
+    border: 1px solid red;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft .p-text span img{
+	height: 16px;
+    position: relative;
+    left: 6px;
+    top: 3px;
+}
+
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomright{
+	width: 125px;
+	height: 50px;
+    margin-top:3px;
+	
+	float: right;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft .p-img img{
+	height: 50px;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft .p-text span a{
+	font-size: 12px;
+    text-decoration: none;
+    position: relative;
+    top: -1px;
+    left: 2px;
+    color: #aaaaaa;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomright button{
+	width: 115px;
+    height: 25px;
+    margin-top: 12px;
+    border: 1px solid black;
+    background: white;
+    font-size: 14px;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomright button a{
+	text-decoration: none;
+	color:black;
+}
+
+.shopbox .shopdiv2 .divbox1{
+	height: 300px;
+	width:504px;
+	display:flex;
+	background:pink;
+	margin-right: 23px;
+	position:relative;
+}
+.shopbox .shopdiv2  .divbox1 img{
+	height:300px;
+}
+.shopbox .shopdiv2 .divbox1 .primary{
+	width:320px;
+	height:100px;
+	background:rgba(251,250,253,0.9);
+	position:absolute;
+	left:50%;
+	margin-left: -160px;
+	bottom: 20px;
+	border-radius: 5px;
+}
+.shopbox .shopdiv2 .divbox1 .primary .primg{
+	height: 50px;
+    position: relative;
+    left: 110px;
+    top: 5px;
+}
+.shopbox .shopdiv2 .divbox1 .primary .hostp{
+	left:15px;
+    top: 8px;
+   	font-size:14px;
+   	 font-weight: bold;
+}
+.shopbox .shopdiv2 .divbox1 .primary .hostb{
+	left:14px;
+    top: 10px;
+   font-size: 12px;
+}
+.shopbox .shopdiv2 .divbox1 .primary .host-p{
+	width: 150px;
+    height: 50px;
+   
+    position: relative;
+    top: -4px;
+    left: 82px;
+}
+.shopbox .shopdiv2 .divbox1 .primary .host-p span{
+	position: relative; 
+	display:block;
+	
+   
+}
+.shopbox .shopdiv2 .divbox1 .pricemai{
+	width: 450px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    border-radius: 5px;
+    margin-top: -130px;
+	display:none;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .topul{
+	height: 188px;
+	border-bottom: 1px dotted #aaaaaa;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .topul ul{
+	width: 423px;
+    height: 174px;
+    margin: 15px 24px;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .topul ul li{
+	width: 121px;
+	height: 184px;
+	
+	margin-right: 20px;
+	float: left;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .topul ul li img{
+	height: 153px;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .topul ul li p{
+	width: 48px;
+    height: 16px;
+   
+    margin: 5px auto;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom{
+	width: 410px;
+    height: 56px;
+   
+    margin: 0px auto;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomleft{
+	width: 228px;
+	height: 50px;
+    margin-top: 3px;
+	
+	float: left;
+	display:flex;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomleft p{
+	height: 50px;
+	display:flex;
+	
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomleft .p-img{
+	flex:1.5;
+}
+.shopbox .shopdiv2 .divbox .pricemai .botom .botomleft .p-text{
+	flex:1;
+
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomleft .p-text span{
+	display: block;
+    width: 80px;
+    height: 20px;
+    
+    border: 1px solid red;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomleft .p-text span img{
+	height: 16px;
+    position: relative;
+    left: 6px;
+    top: 3px;
+}
+
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomright{
+	width: 125px;
+	height: 50px;
+    margin-top:3px;
+	
+	float: right;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomleft .p-img img{
+	height: 50px;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomleft .p-text span a{
+	font-size: 12px;
+    text-decoration: none;
+    position: relative;
+    top: -1px;
+    left: 2px;
+    color: #aaaaaa;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomright button{
+	width: 115px;
+    height: 25px;
+    margin-top: 12px;
+    border: 1px solid black;
+    background: white;
+    font-size: 14px;
+}
+.shopbox .shopdiv2 .divbox1 .pricemai .botom .botomright button a{
+	text-decoration: none;
+	color:black;
+}
+
+
+.shopbox .shopdiv3{
+	height: 300px;
+	display:flex;
+	margin-bottom:20px;
+}
+.shopbox .shopdiv3 .divbox{
+	height: 300px;
+	width:504px;
+	display:flex;
+	background:pink;
+	margin-right: 23px;
+	position:relative;
+}
+.shopbox .shopdiv3  .divbox img{
+	height:300px;
+}
+.shopbox .shopdiv3 .divbox .primary{
+	width:320px;
+	height:100px;
+	background:rgba(251,250,253,0.9);
+	position:absolute;
+	left:50%;
+	margin-left: -160px;
+	bottom: 20px;
+	border-radius: 5px;
+}
+.shopbox .shopdiv3 .divbox .primary .primg{
+	height: 50px;
+    position: relative;
+    left: 110px;
+    top: 5px;
+}
+.shopbox .shopdiv3 .divbox .primary .hostp{
+	left:15px;
+    top: 8px;
+   	font-size:14px;
+   	 font-weight: bold;
+}
+.shopbox .shopdiv3 .divbox .primary .hostb{
+	left:14px;
+    top: 10px;
+   font-size: 12px;
+}
+.shopbox .shopdiv3 .divbox .primary .host-p{
+	width: 150px;
+    height: 50px;
+   
+    position: relative;
+    top: -4px;
+    left: 82px;
+}
+.shopbox .shopdiv3 .divbox .primary .host-p span{
+	position: relative; 
+	display:block;
+	
+   
+}
+.shopbox .shopdiv3 .divbox .pricemai{
+	width: 450px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    border-radius: 5px;
+    margin-top: -130px;
+	display:none;
+}
+.shopbox .shopdiv3 .divbox .pricemai .topul{
+	height: 188px;
+	border-bottom: 1px dotted #aaaaaa;
+}
+.shopbox .shopdiv3 .divbox .pricemai .topul ul{
+	width: 423px;
+    height: 174px;
+    margin: 15px 24px;
+}
+.shopbox .shopdiv3 .divbox .pricemai .topul ul li{
+	width: 121px;
+	height: 184px;
+	
+	margin-right: 20px;
+	float: left;
+}
+.shopbox .shopdiv3 .divbox .pricemai .topul ul li img{
+	height: 153px;
+}
+.shopbox .shopdiv3 .divbox .pricemai .topul ul li p{
+	width: 48px;
+    height: 16px;
+   
+    margin: 5px auto;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom{
+	width: 410px;
+    height: 56px;
+   
+    margin: 0px auto;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft{
+	width: 228px;
+	height: 50px;
+    margin-top: 3px;
+	
+	float: left;
+	display:flex;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft p{
+	height: 50px;
+	display:flex;
+	
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft .p-img{
+	flex:1.5;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft .p-text{
+	flex:1;
+
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft .p-text span{
+	display: block;
+    width: 80px;
+    height: 20px;
+    
+    border: 1px solid red;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft .p-text span img{
+	height: 16px;
+    position: relative;
+    left: 6px;
+    top: 3px;
+}
+
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomright{
+	width: 125px;
+	height: 50px;
+    margin-top:3px;
+	
+	float: right;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft .p-img img{
+	height: 50px;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomleft .p-text span a{
+	font-size: 12px;
+    text-decoration: none;
+    position: relative;
+    top: -1px;
+    left: 2px;
+    color: #aaaaaa;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomright button{
+	width: 115px;
+    height: 25px;
+    margin-top: 12px;
+    border: 1px solid black;
+    background: white;
+    font-size: 14px;
+}
+.shopbox .shopdiv3 .divbox .pricemai .botom .botomright button a{
+	text-decoration: none;
+	color:black;
+}
+
+.shopbox .shopdiv3 .divbox1{
+	height: 300px;
+	width:504px;
+	display:flex;
+	background:pink;
+	margin-right: 23px;
+	position:relative;
+}
+.shopbox .shopdiv3  .divbox1 img{
+	height:300px;
+}
+.shopbox .shopdiv3 .divbox1 .primary{
+	width:320px;
+	height:100px;
+	background:rgba(251,250,253,0.9);
+	position:absolute;
+	left:50%;
+	margin-left: -160px;
+	bottom: 20px;
+	border-radius: 5px;
+}
+.shopbox .shopdiv3 .divbox1 .primary .primg{
+	height: 50px;
+    position: relative;
+    left: 110px;
+    top: 5px;
+}
+.shopbox .shopdiv3 .divbox1 .primary .hostp{
+	left:6px;
+    top: 8px;
+   	font-size:14px;
+   	 font-weight: bold;
+}
+.shopbox .shopdiv3 .divbox1 .primary .hostb{
+	left:30px;
+    top: 10px;
+   font-size: 12px;
+}
+.shopbox .shopdiv3 .divbox1 .primary .host-p{
+	width: 152px;
+    height: 50px;
+   
+    position: relative;
+    top: -4px;
+    left: 82px;
+}
+.shopbox .shopdiv3 .divbox1 .primary .host-p span{
+	position: relative; 
+	display:block;
+	
+   
+}
+.shopbox .shopdiv3 .divbox1 .pricemai{
+	width: 450px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    border-radius: 5px;
+    margin-top: -130px;
+	display:none;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .topul{
+	height: 188px;
+	border-bottom: 1px dotted #aaaaaa;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .topul ul{
+	width: 423px;
+    height: 174px;
+    margin: 15px 24px;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .topul ul li{
+	width: 121px;
+	height: 184px;
+	
+	margin-right: 20px;
+	float: left;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .topul ul li img{
+	height: 153px;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .topul ul li p{
+	width: 48px;
+    height: 16px;
+   
+    margin: 5px auto;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom{
+	width: 410px;
+    height: 56px;
+   
+    margin: 0px auto;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft{
+	width: 228px;
+	height: 50px;
+    margin-top: 3px;
+	
+	float: left;
+	display:flex;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft p{
+	height: 50px;
+	display:flex;
+	
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft .p-img{
+	flex:1.5;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft .p-text{
+	flex:1;
+
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft .p-text span{
+	display: block;
+    width: 80px;
+    height: 20px;
+    
+    border: 1px solid red;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft .p-text span img{
+	height: 16px;
+    position: relative;
+    left: 6px;
+    top: 3px;
+}
+
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomright{
+	width: 125px;
+	height: 50px;
+    margin-top:3px;
+	
+	float: right;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft .p-img img{
+	height: 50px;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomleft .p-text span a{
+	font-size: 12px;
+    text-decoration: none;
+    position: relative;
+    top: -1px;
+    left: 2px;
+    color: #aaaaaa;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomright button{
+	width: 115px;
+    height: 25px;
+    margin-top: 12px;
+    border: 1px solid black;
+    background: white;
+    font-size: 14px;
+}
+.shopbox .shopdiv3 .divbox1 .pricemai .botom .botomright button a{
+	text-decoration: none;
+	color:black;
+}
+ .nvztitle{
+	height:44px;
+	border-bottom:2px solid black;
+	margin-top:50px;
+}
+ .nvztitle .nvzleft{
+	width: 273px;
+	height: 44px;
+	float: left;
+}
+ .nvztitle .nvzleft img{
+	height:44px;
+}
+ .nvztitle .nvzright{
+	width: 102px;
+	height: 21px;
+	position:relative;
+	float: right;
+	margin-top:16px;
+}
+  .nvztitle .nvzright a{
+	text-decoration: none;
+    font-size: 14px;
+    color: black;
+}
+ .nvztitle .nvzright .jian{
+	position: absolute;
+    height: 15px;
+    top: 3px;
+    right: 0px;
+}
+.leftaside{
+	width: 70px;
+    height: 438px;
+    border: 1px solid #aaaaaa;
+    position: absolute;
+   	background: white;
+    left: 60px;
+    top: 1410px;
+}
+.leftaside .uli{
+	width: 65px;
+	height: 440px;
+	margin: 5px auto;
+	
+}
+.leftaside .uli a{
+	display: block;
+    padding: 5px 5px;
+    border-bottom: 1px solid #aaaaaa;
+    font-size: 13px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+	
+}
+.leftaside .uli  .whicol{
+	color: white;
+
+
+}
+.leftaside .uli  .whicol:hover{
+	color: white;
+}
+.leftaside .uli .colored{
+	background: #f10180;
+	border-radius: 2px;
+}
+.leftaside .uli .yuxin{
+	border-bottom:none;
+}
+
+.leftaside .uli a span{
+	display:block;
+
+    background:url('../img/rightside.png') no-repeat ;
+    position: relative;
+    width: 20px;
+    height: 22px;
+    display: inline-block;
+
+}
+.leftaside .uli a .wuxing{
+	background-position:-1px 4px ;
+}
+.leftaside .uli a .nvzhuang{
+	background-position:0px -33px ;
+}
+.leftaside .uli a  .baobao{
+	background-position:0px -71px ;
+}
+.leftaside .uli  a .nanzhuang{
+	background-position:0px -110px ;
+}
+.leftaside .uli  a .xiezi{
+	background-position:0px -148px ;
+}
+.leftaside .uli  a .shoubiao{
+	background-position:0px -186px ;
+}
+.leftaside .uli a .huazhuang{
+	background-position:2px -226px ;
+}
+.leftaside .uli a .naiping{
+	background-position:0px -263px ;
+}
+.leftaside .uli a .yizi{
+	background-position:-1px -300px ;
+}
+.leftaside .uli a .interal{
+	background-position:0px -338px ;
+}
+.leftaside .uli a .shuiguo{
+	background-position:-1px -379px ;
+}
+.leftaside .uli a .xinxi{
+	background-position:-1px -415px ;
+
+}
+
+
+.leftaside .uli  a:hover{
+	color: red;
+}
+
+.shopbox #box2 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box2 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	// margin-bottom: 20px;
+	float: left;
+	position: relative;
+}
+.shopbox  #box2 ul li>img{
+	width: 488px;
+}
+.shopbox  #box2 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box2 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box2 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box2 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box2 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box2 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box2 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box2 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box2 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box2 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box2 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box2 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box2 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box2 ul div span:nth-of-type(3){
+	width: 60px;
+	float: right;
+	
+	position: relative;
+}
+.shopbox #box2 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box2 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box2 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box2 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shop-ft{
+	width: 300px;
+    height: 45px;
+    background: #f10180;
+    margin: 0px auto;
+    border-radius: 0px 0px 4px 4px;
+    position: relative;
+}
+.shop-ft a{
+	line-height: 45px;
+    position: relative;
+    left: 70px;
+    text-decoration: none;
+    color: white;
+}
+.shop-ft span{
+	width: 15px;
+    height: 15px;
+    display: block;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 16px;
+    right: 90px;
+    transform: rotate(90deg);
+   
+    text-align: center;
+    color: red;
+    font-size: 13px;
+}
+
+
+
+.shopbox #box3 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box3 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	// margin-bottom: 20px;
+	float: left;
+	position: relative;
+}
+.shopbox  #box3 ul li>img{
+	width: 488px;
+}
+.shopbox  #box3 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box3 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box3 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box3 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box3 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box3 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box3 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box3 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box3 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box3 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box3 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box3 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box3 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box3 ul div span:nth-of-type(3){
+	width: 60px;
+	float: right;
+	
+	position: relative;
+}
+.shopbox #box3 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box3 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box3 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box3 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box3 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box3 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box3 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box3 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box3 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+
+.shopbox #box4 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box4 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	// margin-bottom: 20px;
+	float: left;
+	position: relative;
+}
+.shopbox  #box4 ul li>img{
+	width: 488px;
+}
+.shopbox  #box4 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box4 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box4 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box4 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box4 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box4 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box4 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box4 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box4 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box4 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box4 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box4 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box4 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box4 ul div span:nth-of-type(3){
+	width: 60px;
+	float: right;
+	
+	position: relative;
+}
+.shopbox #box4 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box4 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box4 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box4 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box4 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box4 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box4 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box4 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box4 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+.shopbox #box5 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box5 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	// margin-bottom: 20px;
+	float: left;
+	position: relative;
+}
+.shopbox  #box5 ul li>img{
+	width: 488px;
+}
+.shopbox  #box5 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box5 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box5 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box5 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box5 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box5 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box5 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box5 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box5 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box5 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box5 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box5 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box5 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box5 ul div span:nth-of-type(3){
+	width: 60px;
+	float: right;
+	
+	position: relative;
+}
+.shopbox #box5 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box5 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box5 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box5 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box5 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box5 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box5 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box5 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box5 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+.shopbox #box6 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box6 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	// margin-bottom: 20px;
+	float: left;
+	position: relative;
+}
+.shopbox  #box6 ul li>img{
+	width: 488px;
+}
+.shopbox  #box6 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box6 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box6 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box6 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box6 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box6 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box6 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box6 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box6 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box6 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box6 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box6 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box6 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box6 ul div span:nth-of-type(3){
+	width: 60px;
+	float: right;
+	
+	position: relative;
+}
+.shopbox #box6 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box6 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box6 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box6 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box6 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box6 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box6 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box6 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box6 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+
+.shopbox #box7 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box7 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	
+	float: left;
+	position: relative;
+}
+.shopbox  #box7 ul li>img{
+	width: 488px;
+}
+.shopbox  #box7 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box7 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box7 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box7 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box7 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box7 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box7 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box7 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box7 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box7 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box7 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box7 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box7 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box7 ul div span:nth-of-type(3){
+	width: 62px;
+	float: right;
+	
+	position: relative;
+}
+
+.shopbox #box7 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box7 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box7 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box7 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box7 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box7 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box7 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box7 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box7 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+.shopbox #box8 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box8 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	
+	float: left;
+	position: relative;
+}
+.shopbox  #box8 ul li>img{
+	width: 488px;
+}
+.shopbox  #box8 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box8 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box8 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box8 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box8 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box8 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box8 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box8 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box8 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box8 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box8 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box8 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box8 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box8 ul div span:nth-of-type(3){
+	width: 62px;
+	float: right;
+	
+	position: relative;
+}
+
+.shopbox #box8 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box8 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box8 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box8 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box8 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box8 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box8 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box8 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box8 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+.shopbox #box9 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box9 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	
+	float: left;
+	position: relative;
+}
+.shopbox  #box9 ul li>img{
+	width: 488px;
+}
+.shopbox  #box9 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box9 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box9 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box9 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box9 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box9 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box9 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box9 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box9 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box9 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box9 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box9 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box9 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box9 ul div span:nth-of-type(3){
+	width: 62px;
+	float: right;
+	
+	position: relative;
+}
+
+.shopbox #box9 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box9 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box9 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box9 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box9 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box9 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box9 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box9 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box9 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+.shopbox #box10 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box10 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	
+	float: left;
+	position: relative;
+}
+.shopbox  #box10 ul li>img{
+	width: 488px;
+}
+.shopbox  #box10 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box10 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box10 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box10 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box10 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box10 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box10 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box10 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box10 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box10 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box10 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box10 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box10 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box10 ul div span:nth-of-type(3){
+	width: 62px;
+	float: right;
+	
+	position: relative;
+}
+
+.shopbox #box10 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box10 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box10 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box10 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box10 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box10 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box10 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box10 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box10 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+
+
+
+.shopbox #box11 ul{
+	height: 880px;
+	width: 1022px;
+	margin-top: 20px;
+	border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.shopbox #box11 ul >li{
+	width: 488px;
+	height: 300px;
+	
+	margin-right: 23px;
+	
+	float: left;
+	position: relative;
+}
+.shopbox  #box11 ul li>img{
+	width: 488px;
+}
+.shopbox  #box11 ul li>p{
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom:65px;
+	background: rgba(0,0,0,0.6);
+}
+.shopbox #box11 ul li p>span:nth-of-type(1){
+	background:url('../img/index_imgs.png') no-repeat;
+}
+.shopbox #box11 ul li p>span:nth-of-type(1){
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 20px;
+	height: 20px;
+	background-position: 4px 6px;
+}
+.shopbox #box11 ul li p>a{
+	position: absolute;
+    left: 30px;
+    top: 12px;
+    font-size: 13px;
+    color: white;
+    text-decoration:none;
+}
+.shopbox #box11 ul li p>span:nth-of-type(2){
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 10px;
+    background: white;
+    top: 8px;
+	display:none;
+}
+.shopbox #box11 ul li p>span:nth-of-type(2):hover{
+	background: #f10180;
+}
+.shopbox #box11 ul li p>span:nth-of-type(2)>img{
+	width: 18px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.shopbox #box11 ul li p>span:nth-of-type(2)>a{
+	font-size: 10px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    color: black;
+}
+.shopbox #box11 ul li p>span:nth-of-type(2)>a:hover{
+	color:white;
+}
+.shopbox #box11 ul li div{
+	width: 100%;
+	height: 40px;
+	
+	position: absolute;
+	bottom: 26px;
+}
+.shopbox #box11 ul div span{
+	height:40px;
+	float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.shopbox #box11 ul div span:nth-of-type(1){
+	width: 80px;
+	margin-left:10px;
+	
+}
+.shopbox #box11 ul div span:nth-of-type(2){
+	width: 180px;
+	
+}
+.shopbox #box11 ul div span:nth-of-type(3){
+	width: 62px;
+	float: right;
+	
+	position: relative;
+}
+
+.shopbox #box11 ul div a{
+	text-decoration: none;
+	font-size: 14px;
+    line-height: 46px;
+    color: black;
+}
+.shopbox #box11 ul div .redtext{
+	
+    font-size: 25px;
+    line-height: 40px;
+    color: red;
+    font-weight: bold;
+}
+.shopbox #box11 ul div span.corest{
+	width: 20px;
+	height: 20px;
+
+	display: block;
+	position: absolute;
+	left: -2px;
+    top: 10px;
+    
+    background:url('../img/index_imgs.png') no-repeat -47px 2px;
+}
+.shopbox #box11 ul div span .sheng{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.shopbox #box11 ul li .tep-sp{
+	width: 80px;
+    height: 20px;
+    background: white;
+    display: block;
+    position: absolute;
+    bottom: 72px;
+    border-radius: 10px;
+    right: 10px;
+    display:none;
+}
+.shopbox #box11 ul li .tep-sp:hover{
+	background: #f10180;
+	
+}
+.shopbox #box11 ul li .tep-sp img{
+	width: 18px;
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.shopbox #box11 ul li .tep-sp a:hover{
+	color:white;
+}
+.shopbox #box11 ul li .tep-sp a{
+	font-size: 13px;
+    text-decoration: none;
+    color: black;
+   	left:-2px;
+    position: relative;
+    top: -2px;
+}
+#box12 ul{
+	height: 1000px;
+	width: 1029px;
+	margin-top: 20px;
+	
+    padding-bottom: 20px;
+   
+}
+#box12 ul li{
+	width: 320px;
+	height: 203px;
+	
+	float: left;
+	margin-right: 23px;
+	margin-bottom: 3px;
+	position: relative;
+}
+#box12 ul li p{
+	width: 140px;
+	height: 40px;
+	background: rgba(0,0,0,0.6);
+	position: absolute;
+	top: 55px;
+	left: 50%;
+	margin-left: -70px;
+	line-height: 40px;
+	text-align: center;
+}
+#box12 ul li p a{
+	text-decoration:none;
+	font-size:14px;
+	color: white;
+}	
+#box12 ul li a{
+	
+    font-size: 12px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+#box12 .shoucang{
+	width: 85px;
+    height: 20px;
+  	
+    background: white;
+    display: block;
+    position: absolute;
+    right: 10px;
+    bottom: 55px;
+    border-radius: 20px;
+    display: none;
+}
+#box12 .shoucang:hover{
+	background: #f10180;
+
+}
+#box12 .shoucang img{
+	width: 18px;
+    position: relative;
+    left: 8px;
+    top: 3px;
+}
+#box12 .shoucang a{
+	position: relative;
+    top: -2px;
+    left: -8px;
+}
+#box12 div{
+	width: 202px;
+    height: 26px;
+    border: 1px solid #aaaaaa;
+    margin-left: 5px;
+    border-radius: 2px;
+    display:none;
+}
+#box12 div input{
+	width: 140px;
+    height: 20px;
+    margin-top: 3px;
+    border: none;
+    text-align: center;
+    font-size: 12px;
+    border-right: 1px solid #aaaaaa;
+	font-size: 12px;
+	outline: none;
+}
+#box12 div button{
+	border: none;
+    color: skyb lue;
+    background: none;
+    width: 60px;
+    height: 22px;
+   	outline:none;
+    margin-left: -8px;
+    line-height: 15px;
+}
+.footer{
+	margin-top: 150px;
+	height: 420px;
+	border-top: 1px solid #ebebeb;
+	background: #fcfcfc;
+}
+.cont{
+	width: 960px;
+	height: 400px;
+	margin: 0px auto;
+}
+.top{
+	 height: 126px;
+}
+.top li{
+	width: 137px;
+	height: 126px;
+	float: left;
+	position: relative;
+}
+.top li span{
+	width: 70px;
+	height:100px;
+	
+	display: block;
+	position: absolute;
+    bottom: 0px;
+    left: 20px;
+    background: url('../img/footer_vip_iconsv_0704.png') no-repeat;
+}
+.top li:nth-of-type(1) span{
+	background-position:-8px -7px;
+}
+.top li:nth-of-type(2) span{
+	background-position:-146px -7px;
+}
+.top li:nth-of-type(3) span{
+	background-position:-293px -7px;
+}
+.top li:nth-of-type(4) span{
+	background-position:-440px -7px;
+}
+.top li:nth-of-type(5) span{
+	background-position:-588px -7px;
+}
+.top li:nth-of-type(6) span{
+	background-position:-736px -7px;
+}
+.top li:nth-of-type(7) span{
+	background-position:-882px -7px;
+}
+.dl-dt{
+	height: 146px;
+	margin-top: 30px;
+	
+}
+.dl-dt dl{
+	width: 146px;
+	height: 146px;
+	border-right: 1px solid #e0e0e0;
+	float: left;
+	padding-left: 13px;
+}
+.dl-dt dl dt{
+	font-size: 14px;
+	margin-bottom: 4px;
+}
+.dl-dt dl dd{
+	padding-left: 10px;
+	background:url('../img/footer.png') no-repeat -4px -495px;
+}
+.dl-dt .ft-ct{
+	border-right:none;
+}
+.dl-dt .ft-ct dd{
+	background: none;
+}
+.dl-dt .ft-ct dd:hover{
+	background: none;
+}
+.dl-dt dl dd:hover{
+	
+	background: url('../img/footer.png') no-repeat -4px -513px;
+}
+dl a{
+	font-size: 14px;
+}
+.test-ft{
+	height: 100px;
+	
+	margin-top: 10px;
+}
+
+.footer a{
+	color: grey;
+	text-decoration:none;
+}
+.p-link{
+	line-height: 30px;
+	background: #d7237e;
+	height: 30px;
+	text-align:center;
+	color:white;
+	font-size: 12px;
+}
+.p-link a{
+	color: white;
+}
+.p-link a:hover{
+	color: grey;
+}
+.p-text{
+	height: 60px;
+	
+	text-align:center;
+	color:grey;
+	font-size: 12px;
+	margin: 10px 0px;
+    line-height: 19px;
+}
+.p-text a:hover{
+	color: red;
+
+}
+.foter-bot{
+	width: 744px;
+	height: 50px;
+	
+	margin:0px auto;
+}
+.foter-bot a {
+	width: 106px;
+	height: 40px;
+	display:block;
+	float: left;
+	position:relative;
+	background:url('../img/footer.png') no-repeat;
+}
+.foter-bot a:nth-of-type(1){
+	background-position: -9px 0px;
+	left: 60px;
+}
+.foter-bot a:nth-of-type(2){
+	background-position: -1px -149px;
+	left: 60px;
+}
+.foter-bot a:nth-of-type(3){
+	background-position: 10px -200px;
+	left: 52px;
+
+}
+.foter-bot a:nth-of-type(4){
+	background-position: -2px -249px;
+	left: 35px;
+
+}
+.foter-bot a:nth-of-type(5){
+	background-position: -0px -299px;
+	left: 10px;
+
+}
+.foter-bot a:nth-of-type(6){
+	background-position: -1px -398px;
+	left: -8px;
+
+}
+.foter-bot a:nth-of-type(7){
+	background-position: 12px -447px;
+	left: -35px;
+
+}

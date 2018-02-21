@@ -1,0 +1,195 @@
+section{
+	width: 1000px;
+	height: 1000px;
+	margin: 50px auto;
+	background: yellow; 
+}
+header{
+	height: 44px;
+	
+}
+.left{
+	width: 310px;
+	height: 44px;
+	float: left;
+}
+.right{
+	width: 530px;
+	height: 44px;
+	float: right;
+	
+}
+.left a{
+	width: 310px;
+    height: 44px;
+    display: block;
+	background: url('../img/sprite (1).png') no-repeat -1px -4px;
+}
+.right span{
+	width: 162px;
+	height: 44px;
+	background: url('../img/sprite (1).png') no-repeat;
+	display:block;
+	float: left;
+	position: relative;
+	left: 90px;
+}
+.right span:nth-of-type(1){
+	background-position: -317px 8px;
+}
+.right span:nth-of-type(2){
+	background-position: -479px 8px;
+}
+.right span:nth-of-type(3){
+	background-position: -647px 8px;
+}
+main{
+	height: 500px;
+	margin-top: 30px;
+	background:url('../img/57b4bd15bcc545b8b967d1df86589b99.jpg') no-repeat;
+}
+.inputext{
+	width: 350px;
+	height: 400px;
+	background: pink;
+	float: right;
+	margin-top: 40px;
+}
+.inputs{
+	width: 256px;
+	height: 200px;
+	background: skyblue;
+	margin-top: 10px;
+}
+.inputs input:nth-of-type(1){
+	height: 40px;
+    width: 250px;
+    border-radius: 3px;
+    border: 1px solid #aaaaaa;
+    padding-left: 5px;
+}
+.inputs p{
+	font-size: 12px;
+	color: red;
+	margin-top:5px;
+	display: none;
+}
+.inputs input:nth-of-type(2){
+	height: 40px;
+    width: 250px;
+    border-radius: 3px;
+    border: 1px solid red;
+    margin-top: 25px;
+    padding-left: 5px;
+}
+.inputs input:nth-of-type(3){
+	width: 130px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: none;
+    background: #d7237e;
+    color:white;
+}
+.inputs input:nth-of-type(4){
+	margin-top: 12px;
+	width: 20px;
+	height: 20px;
+	font-size:14px;
+}
+.inputs span:nth-of-type(1){
+	position: relative;
+    top: -4px;
+    font-size: 13px;
+    left: 3px;
+}
+.inputs a{
+	text-decoration: none;
+}
+.inputs span:nth-of-type(2){
+	margin-left: 37px;
+	position:relative;
+	top: -2px;
+	font-size: 12px;
+
+}
+.inputs span:nth-of-type(2) .twoa{
+	color: #d7237e;
+}
+.inputs span:nth-of-type(2) .onea:hover{
+	color: #d7237e;
+}
+.botmore{
+	margin-top: 50px;
+	height: 70px;
+}
+.botmore h6{
+	font-size: 14px;
+}
+.botmore p{
+	margin-top:10px;
+}
+.botmore p a{
+	display: block;
+	width: 25px;
+	height: 25px;
+	background: red;
+	float: left;
+	margin-right: 8px;
+	font-size: 13px;
+	text-decoration: none;
+	background: url('../img/sprite (1).png') no-repeat;
+}
+.botmore p a:nth-of-type(1){
+	background-position:-291px -56px;
+}
+.botmore p a:nth-of-type(1):hover{
+	background-position:-264px -56px;
+}
+
+.botmore p a:nth-of-type(2){
+	background-position:-234px -56px;
+}
+.botmore p a:nth-of-type(2):hover{
+	background-position:-349px -56px;
+}
+.botmore p a:nth-of-type(3){
+	background-position:-179px -56px;
+}
+.botmore p a:nth-of-type(3):hover{
+	background-position:-150px -56px;
+}
+.botmore p a:nth-of-type(4){
+	background-position:-207px -56px;
+}
+.botmore p a:nth-of-type(4):hover{
+	background-position:-320px -56px;
+}
+.botmore p a:nth-of-type(5){
+	width: 45px;
+	height: 40px;
+	background:none;
+	line-height: 28px;
+}
+.botmore p a:nth-of-type(5):hover{
+	color: red;
+}
+.botmore p a:nth-of-type(4) span{
+	width: 0px;
+	height: 0px;
+	position: relative;
+	border-color: transparent;
+    border-style: solid;
+	border-width: 0 5px 5px;
+    border-bottom-color: #000;
+}
+.moreback{
+	height: 50px;
+    width: 264px;
+    font-size: 12px;
+    line-height: 30px;
+    font-weight: bold;
+}
+.moreback a{
+	text-decoration:none;
+}
